@@ -1,3 +1,3 @@
-# COMP397-W2021-Lesson7a
+# FPS-game-v7
 
 Demo project for Week 7
